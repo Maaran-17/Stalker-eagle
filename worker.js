@@ -10,12 +10,12 @@
 
 // ============ ⚙ CONFIGURATION ============
 const config = {
-    host: '', // Replace with your Stalker-Portal host (e.g., 'example.com')
-    mac_address: '', // Replace with your MAC address
-    serial_number: '', // Replace with your serial number
-    device_id: '', // Replace with your device_id
-    device_id_2: '', // Replace with your device_id_2
-    stb_type: 'MAG250', // Replace with Stalker-Portal Stb_type
+    host: 'eagletv.digital', // Replace with your Stalker-Portal host (e.g., 'example.com')
+    mac_address: '00:1A:79:01:00:00', // Replace with your MAC address
+    serial_number: '82E9694A44C59', // Replace with your serial number
+    device_id: 'F13ADA5EB87712325424EE88868680E5EE9BB064BF49FD31E1B94652F57F007B', // Replace with your device_id
+    device_id_2: 'F13ADA5EB87712325424EE88868680E5EE9BB064BF49FD31E1B94652F57F007B', // Replace with your device_id_2
+    stb_type: 'MAG270', // Replace with Stalker-Portal Stb_type
     api_signature: '263', // No need to change
 };
 
